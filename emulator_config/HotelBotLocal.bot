@@ -1,0 +1,15 @@
+{
+    "name": "HotelBotLocal",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "89c71270-6401-11e8-b7ad-cdc44049c625",
+            "name": "LocalBot",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/Messages"
+        }
+    ]
+}
